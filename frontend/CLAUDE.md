@@ -1,7 +1,7 @@
 # Frontend Project
 
 ## Стек
-React 19, TypeScript 5 (strict), Vite 6, Redux Toolkit 2 + RTK Query, Tailwind CSS v4, shadcn/ui, React Hook Form + Zod, React Router v7, Vitest + RTL, pnpm
+React 19, TypeScript 5 (strict), Vite 6, Redux Toolkit 2 + RTK Query, Tailwind CSS v4, shadcn/ui, React Hook Form + Zod, React Router v7, Vitest + RTL, Prettier, pnpm
 
 ## Структура
 ```

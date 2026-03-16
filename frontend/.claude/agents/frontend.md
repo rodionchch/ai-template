@@ -12,6 +12,7 @@ model: sonnet
 - Props интерфейс перед компонентом
 - Именование: `PascalCase` компоненты, `useX` хуки
 - Классы через `cn()` утилиту (clsx + tailwind-merge)
+- Форматирование через Prettier
 - Экспорт через `index.ts`
 
 ## Состояние
